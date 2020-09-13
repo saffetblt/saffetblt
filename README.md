@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hey there! I'm Saffet.</h2>
 
-<!--
-**saffetblt/saffetblt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Embedded software systems developer.
+- 🎓 &nbsp; I graduated from Gazi University Electrical and Electronics Engineering.
+- 👨‍💻  &nbsp; I am the founding partner of Deep Control Technology Company.
+- ✍️ &nbsp; I previously worked at ICS Defense and BITES Defense companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++ | C | Golang | Python | Matlab
+- 🖥 &nbsp; Rtos | Arm | Risc-V | Stm32 | Esp32
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
+- 🛢 &nbsp; PostgreSQL | Influxdb
+- 🔧 &nbsp; Git | Markdown
+
+<br/>
+
+[![saffetblt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saffetblt&show_icons=true)](https://github.com/AVS1508)
