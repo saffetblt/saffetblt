@@ -17,4 +17,5 @@
 
 <br/>
 
-[![saffetblt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saffetblt&show_icons=true)](https://github.com/AVS1508)
+![saffetblt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saffetblt&show_icons=true&theme=algolia)
+
